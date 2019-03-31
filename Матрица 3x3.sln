@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Матрица 3x3", "Матрица 3x3\Матрица 3x3.vcxproj", "{6002174C-0A53-4320-ABBA-06FCF0561EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Debug|x64.ActiveCfg = Debug|x64
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Debug|x64.Build.0 = Debug|x64
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Debug|x86.Build.0 = Debug|Win32
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Release|x64.ActiveCfg = Release|x64
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Release|x64.Build.0 = Release|x64
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Release|x86.ActiveCfg = Release|Win32
+		{6002174C-0A53-4320-ABBA-06FCF0561EFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3701DFB1-2986-4236-8380-BF8263CA0E87}
+	EndGlobalSection
+EndGlobal
